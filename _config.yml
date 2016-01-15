@@ -1,13 +1,13 @@
 ########################### EDIT YOUR SETTINGS HERE
 # Site settings
-title: folio # give your site a title
-email: you@example.com # put your email address in here; optional
+title: Shelby's Blog
+email: ej6294@wayne.edu
 # edit your site description; keep it brief
-description: > # this just means to ignore newlines until "baseurl:"
+description: Just give me an A already.
   A simple blog and portfolio theme based in whitespace and Helvetica.
 baseurl:  # the subpath of your site, e.g. /blog/; if unsure, leave this blank
-url: http://[username].github.io # replace [username] with your github username (no brackets)
-github_username: github_username # replace with your github username
+url: http://shelby8545.github.io # replace [username] with your github username (no brackets)
+github_username: shelby8545 # replace with your github username
 
 ########################## DO NOT EDIT BELOW HERE UNLESS YOU'RE STOKED TO HACK
 # Build settings
